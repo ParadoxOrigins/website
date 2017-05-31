@@ -1,2 +1,2 @@
 # hifumi-website
-Source for Hifumi website
+Soon™
