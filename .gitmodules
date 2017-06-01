@@ -1,4 +1,0 @@
-[submodule "hifumi-docs"]
-	path = hifumi-docs
-	url = https://github.com/hifumibot/hifumi-docs.git
-	branch = master
